@@ -1,8 +1,21 @@
+# Visual Studio
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
 x64/
-packages/
-*.sdf
-*.pdb
+Debug/
+Release/
 *.obj
-*.log
+*.pdb
 *.dll
+*.exe
+*.ilk
+*.log
+*.tlog
+
+# NuGet + ONNX Runtime packages
+packages/
