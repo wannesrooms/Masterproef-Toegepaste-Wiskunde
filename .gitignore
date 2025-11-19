@@ -19,3 +19,5 @@ Release/
 
 # NuGet + ONNX Runtime packages
 packages/
+bert-base-cased.onnx
+*.onnx
