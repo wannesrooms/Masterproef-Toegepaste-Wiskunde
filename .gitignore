@@ -1,0 +1,8 @@
+.vs/
+x64/
+packages/
+*.sdf
+*.pdb
+*.obj
+*.log
+*.dll
