@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+C:\Users\Wannes Rooms\source\repos\Masterproef\packages\Microsoft.ML.OnnxRuntime.1.23.1\build\native\include\onnxruntime_cxx_inline.h(2588,3): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+  (compiling source file 'main.cpp')
+  
+  Masterproef.vcxproj -> C:\Users\Wannes Rooms\source\repos\Masterproef\x64\Debug\Masterproef.exe

@@ -1,0 +1,2 @@
+C:\Users\Wannes Rooms\source\repos\Masterproef\x64\Debug\onnxruntime.dll
+C:\Users\Wannes Rooms\source\repos\Masterproef\x64\Debug\onnxruntime_providers_shared.dll
